@@ -4,7 +4,7 @@
         "subjectCode": "CSE",
         "courseNumber": "101",
         "credits": 3,
-        "title": "Typing in Vi",
+        "title": "UWIT Student Team Rocks!: A Quick Study",
         "description": "Knowing vi is valuable because it wis available on all Unix-based systems. This class will make you a vi expert."
     },
     {
@@ -52,7 +52,7 @@
         "subjectCode": "PHYS",
         "courseNumber": "101",
         "credits": 3,
-        "title": "Physical Science By Inquiry",
+        "title": "UWIT Student Team Rocks!: A Inquiry into Methods & Processes",
         "description": "Laboratory-based development of concepts and reasoning skills. Develops problem-solving techniques and scientific method in a large group setting."
     },
     {
